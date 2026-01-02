@@ -26,6 +26,7 @@ Python | Git | Docker | Linux | FastAPI | OpenAI | LangChain
 ---
 
 ### 🔗 Let’s Connect
+- Linkedin: https://www.linkedin.com/in/aiwithviveka/
 - Medium: https://medium.com/@aiwithviveka
 - GitHub: https://github.com/aiwithviveka
 - X (Twitter): https://x.com/AIWithViveka
