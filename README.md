@@ -2,14 +2,14 @@
 
 **Freelancer Mentor @ Career Byte Code | DevOps & Cloud | LLMs & Generative AI Writer, India 🇮🇳**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viveka%20Sharma-blue?logo=linkedin)](https://www.linkedin.com/)
-[![Medium](https://img.shields.io/badge/Medium-aiwithviveka-black?logo=medium)](https://medium.com/@aiwithviveka)
-[![X](https://img.shields.io/badge/X-AIWithViveka-black?logo=x)](https://x.com/AIWithViveka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aiwithviveka-blue?logo=linkedin)](https://www.linkedin.com/in/aiwithviveka)
+[![Substack](https://img.shields.io/badge/Substack-aiwithviveka-orange?logo=substack)](https://aiwithviveka.substack.com/)
+[![X](https://img.shields.io/badge/X-TechRise__Viveka-black?logo=x)](https://x.com/TechRise_Viveka)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:vivekasharma01@gmail.com)
 
 ---
 
-### 👩‍💻 Professional Snapshot (Recruiter-Friendly)
+### 👩‍💻 Professional Snapshot
 
 Freelancer Mentor at **Career Byte Code**, with **5+ years of experience** across **IT operations, DevOps, cloud infrastructure, and production support** (including production-scale work at Jio Platforms Limited).
 
@@ -23,14 +23,15 @@ Strong blend of **engineering mindset + technical communication + mentorship**.
 
 **Freelancer Mentor — Career Byte Code**
 Helping students, freshers, and working professionals navigate careers in DevOps, Cloud, and Agentic AI — from foundational concepts to interview-readiness.
+🔗 [Book / Connect](https://www.careerbytecode.in/aiwithviveka/)
 
 ---
 
 ### ✍️ Creator & Writer Focus
 
-* Host of **Tech Rise With Viveka** — technical content and educational sessions on DevOps, cloud infrastructure, and Agentic AI
-* Creator of **Neural Nodes** — a newsletter on LinkedIn breaking down LLMs, Generative AI & AI systems
-* Writer at **Medium** on LLMs, Generative AI & AI systems
+* Host of **Tech Rise With Viveka** — technical content and educational sessions on DevOps, cloud infrastructure, and Agentic AI ([X](https://x.com/TechRise_Viveka))
+* Creator of **[Neural Nodes](https://www.linkedin.com/newsletters/neural-nodes-your-weekly-map-7430602044316499968/)** — a weekly LinkedIn newsletter breaking down LLMs, Generative AI & AI systems
+* Also writes on **[Substack](https://aiwithviveka.substack.com/)**
 * Breaks down **buzzwords into mental models**
 * Focus areas: **LLMs at the core, RAG, AI Agents, LLMOps**
 
@@ -38,10 +39,18 @@ Helping students, freshers, and working professionals navigate careers in DevOps
 
 ---
 
+### 🎒 Agentic AI Classroom
+
+A guided, self-paced platform teaching Agentic AI, LLMOps, AI Support, and AI Consulting — notes, live examples, runnable code, and an interactive whiteboard for every concept.
+
+🔗 **[aiwithviveka.github.io/Agentic-AI-Classroom](https://aiwithviveka.github.io/Agentic-AI-Classroom/)**
+
+---
+
 ### 🔭 Currently Working On
 
 * Mentoring learners through **Career Byte Code**
-* Growing **Tech Rise With Viveka** and the **Neural Nodes** newsletter
+* Growing **Tech Rise With Viveka**, **Neural Nodes**, and the **Agentic AI Classroom**
 * LLM-centric view of the **Generative AI ecosystem**
 * Beginner-friendly explainers for:
   * Prompt Engineering
@@ -88,11 +97,11 @@ Helping students, freshers, and working professionals navigate careers in DevOps
 
 ### 🔗 Let's Connect
 
-* 💼 LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/)
-* 📰 Newsletter: **Neural Nodes** on LinkedIn
-* 🎤 Series: **Tech Rise With Viveka**
-* ✍️ Medium: [https://medium.com/@aiwithviveka](https://medium.com/@aiwithviveka)
-* 🐦 X (Twitter): [https://x.com/AIWithViveka](https://x.com/AIWithViveka)
+* 💼 LinkedIn: [linkedin.com/in/aiwithviveka](https://www.linkedin.com/in/aiwithviveka)
+* 📰 Newsletter: **[Neural Nodes](https://www.linkedin.com/newsletters/neural-nodes-your-weekly-map-7430602044316499968/)** (LinkedIn) · [Substack](https://aiwithviveka.substack.com/)
+* 🎤 Series: **[Tech Rise With Viveka](https://x.com/TechRise_Viveka)**
+* 🎒 Classroom: [Agentic AI Classroom](https://aiwithviveka.github.io/Agentic-AI-Classroom/)
+* 🧑‍🏫 Mentoring: [Career Byte Code](https://www.careerbytecode.in/aiwithviveka/)
 * 📩 Email: [vivekasharma01@gmail.com](mailto:vivekasharma01@gmail.com)
 
 ⭐ Follow me for **LLMs, Generative AI, DevOps insights, and clear AI mental models for 2026 and beyond**
